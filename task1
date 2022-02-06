@@ -1,0 +1,4 @@
+a = float(input("Enter the radius of your circle "))
+PI = 3.14
+b = (PI* a * a )
+print(b)
